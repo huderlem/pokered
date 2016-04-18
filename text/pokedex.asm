@@ -1637,5 +1637,43 @@ _NoctowlDexEntry::
 	next "up on prey without"
 	next "being detected"
 	dex
+
+_LedybaDexEntry::
+	text "When the weather"
+	next "turns cold, lots"
+	next "of LEDYBA gather"
 	
+	page "from everywhere to"
+	next "cluster and keep"
+	next "each other warm"
+	dex	
 	
+_LedianDexEntry::
+	text "The star patterns"
+	next "on its back grow"
+	next "larger or smaller"
+	
+	page "depending on the"
+	next "number of stars in"
+	next "the night sky"
+	dex	
+	
+_SpinarakDexEntry::
+	text "It spins a web"
+	next "using fine--but"
+	next "durable--thread."
+	
+	page "It then waits pa-"
+	next "tiently for prey"
+	next "to be trapped"
+	dex	
+
+_AriadosDexEntry::
+	text "It spins string"
+	next "not only from its"
+	next "rear but also from"
+	
+	page "its mouth. It is"
+	next "hard to tell which"
+	next "end is which"
+	dex	

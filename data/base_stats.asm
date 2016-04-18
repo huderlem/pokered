@@ -163,10 +163,10 @@ BaseStatsPointers::
 	dbw Bank(FurretBaseStats), FurretBaseStats
 	dbw Bank(HoothootBaseStats), HoothootBaseStats
 	dbw Bank(NoctowlBaseStats), NoctowlBaseStats
-	dbw Bank(DratiniBaseStats), DratiniBaseStats
-	dbw Bank(DratiniBaseStats), DratiniBaseStats
-	dbw Bank(DratiniBaseStats), DratiniBaseStats
-	dbw Bank(DratiniBaseStats), DratiniBaseStats
+	dbw Bank(LedybaBaseStats), LedybaBaseStats
+	dbw Bank(LedianBaseStats), LedianBaseStats
+	dbw Bank(SpinarakBaseStats), SpinarakBaseStats
+	dbw Bank(AriadosBaseStats), AriadosBaseStats
 	dbw Bank(DratiniBaseStats), DratiniBaseStats
 	dbw Bank(DratiniBaseStats), DratiniBaseStats
 	dbw Bank(DratiniBaseStats), DratiniBaseStats

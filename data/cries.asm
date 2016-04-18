@@ -80,20 +80,20 @@ CryData: ; 39446 (e:5446)
 	db $20, $20, $E0; Krabby
 	db $0E, $DF, $04; Hoothoot
 	db $18, $40, $A0; Noctowl
-	db $0E, $E0, $60; MissingNo.
+	db $16, $80, $20; Ledyba
 	db $24, $4F, $10; Vulpix
 	db $24, $88, $60; Ninetales
 	db $0F, $EE, $01; Pikachu
 	db $09, $EE, $08; Raichu
-	db $00, $00, $00; MissingNo.
-	db $00, $00, $00; MissingNo.
+	db $16, $77, $40; Ledian
+	db $15, $EE, $01; Spinarak
 	db $0F, $60, $40; Dratini
 	db $0F, $40, $80; Dragonair
 	db $16, $BB, $40; Kabuto
 	db $18, $EE, $01; Kabutops
 	db $19, $99, $10; Horsea
 	db $19, $3C, $01; Seadra
-	db $0F, $40, $C0; MissingNo.
+	db $13, $60, $80; Ariados
 	db $0F, $20, $C0; MissingNo.
 	db $00, $20, $40; Sandshrew
 	db $00, $FF, $FF; Sandslash

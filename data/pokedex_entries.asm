@@ -79,20 +79,20 @@ PokedexEntryPointers: ; 4047e (10:447e)
 	dw KrabbyDexEntry
 	dw HoothootDexEntry
 	dw NoctowlDexEntry
-	dw DratiniDexEntry
+	dw LedybaDexEntry
 	dw VulpixDexEntry
 	dw NinetalesDexEntry
 	dw PikachuDexEntry
 	dw RaichuDexEntry
-	dw DratiniDexEntry
-	dw DratiniDexEntry
+	dw LedianDexEntry
+	dw SpinarakDexEntry
 	dw DratiniDexEntry
 	dw DragonairDexEntry
 	dw KabutoDexEntry
 	dw KabutopsDexEntry
 	dw HorseaDexEntry
 	dw SeadraDexEntry
-	dw DratiniDexEntry
+	dw AriadosDexEntry
 	dw DratiniDexEntry
 	dw SandshrewDexEntry
 	dw SandslashDexEntry
@@ -1418,6 +1418,34 @@ NoctowlDexEntry:
 	db 5,3
 	dw 899
 	TX_FAR _NoctowlDexEntry
+	db "@"
+	
+LedybaDexEntry:
+	db "FIVE STAR@"
+	db 3,3
+	dw 240
+	TX_FAR _LedybaDexEntry
+	db "@"
+	
+LedianDexEntry:
+	db "FIVE STAR@"
+	db 4,7
+	dw 780
+	TX_FAR _LedianDexEntry
+	db "@"
+	
+SpinarakDexEntry:
+	db "STRINGSPIT@"
+	db 1,8
+	dw 190
+	TX_FAR _SpinarakDexEntry
+	db "@"
+	
+AriadosDexEntry:
+	db "LONG LEG@"
+	db 3,7
+	dw 740
+	TX_FAR _AriadosDexEntry
 	db "@"
 
 MissingNoDexEntry: ; 40fe5 (10:4fe5)
