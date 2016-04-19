@@ -1308,6 +1308,7 @@ Mon163_EvosMoves: ; 3b57a (e:757a)
 	dw NOCTOWL
 	db 0
 ;Learnset
+;	db 6,FORESIGHT
 	db 11,PECK
 	db 16,HYPNOSIS
 	db 22,REFLECT
@@ -1321,6 +1322,7 @@ Mon164_EvosMoves: ; 3b57c (e:757c)
 ;Evolutions
 	db 0
 ;Learnset
+;	db 6,FORESIGHT
 	db 11,PECK
 	db 16,HYPNOSIS
 	db 25,REFLECT
@@ -1339,6 +1341,7 @@ Mon165_EvosMoves: ; 3b57e (e:757e)
 	db 8,SUPERSONIC
 	db 15,COMET_PUNCH
 	db 22,LIGHT_SCREEN
+;	db 22,SAFEGUARD
 	db 29,REFLECT
 	db 36,SWIFT
 	db 43,AGILITY
@@ -1395,6 +1398,7 @@ Mon166_EvosMoves: ; 3b5a4 (e:75a4)
 	db 8,SUPERSONIC
 	db 15,COMET_PUNCH
 	db 24,LIGHT_SCREEN
+;	db 24,SAFEGUARD
 	db 33,REFLECT
 	db 42,SWIFT
 	db 51,AGILITY
@@ -1408,10 +1412,12 @@ Mon167_EvosMoves: ; 3b5a6 (e:75a6)
 	dw ARIADOS
 	db 0
 ;Learnset
+;	db 6,SCARY_FACE
 	db 11,CONSTRICT
 	db 17,NIGHT_SHADE
 	db 23,LEECH_LIFE
 	db 30,FURY_SWIPES
+;	db 37,SPIDER_WEB
 	db 37,AGILITY
 	db 45,SCREECH
 	db 53,PSYCHIC
@@ -1504,6 +1510,7 @@ Mon168_EvosMoves: ; 3b5f8 (e:75f8)
 	db 17,NIGHT_SHADE
 	db 25,LEECH_LIFE
 	db 34,FURY_SWIPES
+;	db 43,SPIDER_WEB
 	db 43,AGILITY
 	db 53,SCREECH
 	db 63,PSYCHIC
