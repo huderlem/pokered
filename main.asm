@@ -7095,18 +7095,14 @@ INCLUDE "data/baseStats/croconaw.asm"
 INCLUDE "data/baseStats/feraligatr.asm"
 INCLUDE "data/baseStats/sentret.asm"
 INCLUDE "data/baseStats/furret.asm"
-<<<<<<< HEAD
+INCLUDE "data/baseStats/hoothoot.asm"
+INCLUDE "data/baseStats/noctowl.asm"
 INCLUDE "data/baseStats/ledyba.asm"
 INCLUDE "data/baseStats/ledian.asm"
 INCLUDE "data/baseStats/spinarak.asm"
 INCLUDE "data/baseStats/ariados.asm"
-=======
-INCLUDE "data/baseStats/hoothoot.asm"
-INCLUDE "data/baseStats/noctowl.asm"
-
 INCLUDE "data/baseStats/chinchou.asm"
 INCLUDE "data/baseStats/lanturn.asm"
->>>>>>> c37d68fe6057a945193722d87a3290351e891bbe
 
 INCLUDE "data/baseStats/swampert.asm"
 

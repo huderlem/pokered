@@ -1405,8 +1405,21 @@ FurretDexEntry:
 	dw 716
 	TX_FAR _FurretDexEntry
 	db "@"
+
+HoothootDexEntry:
+	db "OWL@"
+	db 2,4
+	dw 467
+	TX_FAR _HoothootDexEntry
+	db "@"
 	
-<<<<<<< HEAD
+NoctowlDexEntry:
+	db "OWL@"
+	db 5,3
+	dw 899
+	TX_FAR _NoctowlDexEntry
+	db "@"
+
 LedybaDexEntry:
 	db "FIVE STAR@"
 	db 3,3
@@ -1433,20 +1446,6 @@ AriadosDexEntry:
 	db 3,7
 	dw 740
 	TX_FAR _AriadosDexEntry
-=======
-HoothootDexEntry:
-	db "OWL@"
-	db 2,4
-	dw 467
-	TX_FAR _HoothootDexEntry
-	db "@"
-	
-NoctowlDexEntry:
-	db "OWL@"
-	db 5,3
-	dw 899
-	TX_FAR _NoctowlDexEntry
-	db "@"
 
 ChinchouDexEntry:
 	db "ANGLER@"
@@ -1460,7 +1459,6 @@ LanturnDexEntry:
 	db 3,11
 	dw 496
 	TX_FAR _LanturnDexEntry
->>>>>>> c37d68fe6057a945193722d87a3290351e891bbe
 	db "@"
 
 MissingNoDexEntry: ; 40fe5 (10:4fe5)
