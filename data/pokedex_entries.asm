@@ -77,8 +77,8 @@ PokedexEntryPointers: ; 4047e (10:447e)
 	dw DittoDexEntry
 	dw MeowthDexEntry
 	dw KrabbyDexEntry
-	dw DratiniDexEntry
-	dw DratiniDexEntry
+	dw HoothootDexEntry
+	dw NoctowlDexEntry
 	dw LedybaDexEntry
 	dw VulpixDexEntry
 	dw NinetalesDexEntry
@@ -113,13 +113,13 @@ PokedexEntryPointers: ; 4047e (10:447e)
 	dw WeedleDexEntry
 	dw KakunaDexEntry
 	dw BeedrillDexEntry
-	dw DratiniDexEntry
+	dw ChinchouDexEntry
 	dw DodrioDexEntry
 	dw PrimeapeDexEntry
 	dw DugtrioDexEntry
 	dw VenomothDexEntry
 	dw DewgongDexEntry
-	dw DratiniDexEntry
+	dw LanturnDexEntry
 	dw DratiniDexEntry
 	dw CaterpieDexEntry
 	dw MetapodDexEntry
@@ -1406,6 +1406,7 @@ FurretDexEntry:
 	TX_FAR _FurretDexEntry
 	db "@"
 	
+<<<<<<< HEAD
 LedybaDexEntry:
 	db "FIVE STAR@"
 	db 3,3
@@ -1432,6 +1433,34 @@ AriadosDexEntry:
 	db 3,7
 	dw 740
 	TX_FAR _AriadosDexEntry
+=======
+HoothootDexEntry:
+	db "OWL@"
+	db 2,4
+	dw 467
+	TX_FAR _HoothootDexEntry
+	db "@"
+	
+NoctowlDexEntry:
+	db "OWL@"
+	db 5,3
+	dw 899
+	TX_FAR _NoctowlDexEntry
+	db "@"
+
+ChinchouDexEntry:
+	db "ANGLER@"
+	db 1,8
+	dw 265
+	TX_FAR _ChinchouDexEntry
+	db "@"
+
+LanturnDexEntry:
+	db "LIGHT@"
+	db 3,11
+	dw 496
+	TX_FAR _LanturnDexEntry
+>>>>>>> c37d68fe6057a945193722d87a3290351e891bbe
 	db "@"
 
 MissingNoDexEntry: ; 40fe5 (10:4fe5)
