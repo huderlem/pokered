@@ -1707,3 +1707,55 @@ _LanturnDexEntry::
 	next "to it as"
 	next "The Deep-Sea Star"
 	dex
+	
+SECTION "Pokedex Text 2", ROMX
+	
+_NatuDexEntry::
+	text "Because its wings"
+	next "aren't yet fully"
+	next "grown, it has to"
+
+	page "hop to get around."
+	next "It is always star-"
+	next "ing at something"
+	dex
+
+_XatuDexEntry::
+	text "In South America,"
+	next "it is said that"
+	next "its right eye sees"
+
+	page "the future and its"
+	next "left eye views the"
+	next "past"
+	dex
+	
+_MareepDexEntry::
+	text "If static electri-"
+	next "city builds in"
+	next "its body, its"
+
+	page "fleece doubles in"
+	next "volume. Touching"
+	next "it will shock you"
+	dex
+	
+_FlaaffyDexEntry::
+	text "As a result of"
+	next "storing too much"
+	next "electricity, it"
+
+	page "developed patches"
+	next "where even downy"
+	next "wool won't grow"
+	dex
+
+_AmpharosDexEntry::
+	text "The bright light"
+	next "on its tail can be"
+	next "seen far away. It"
+
+	page "has been treasured"
+	next "since ancient"
+	next "times as a beacon"
+	dex

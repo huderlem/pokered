@@ -138,13 +138,13 @@ PokedexEntryPointers: ; 4047e (10:447e)
 	dw DratiniDexEntry
 	dw KinglerDexEntry
 	dw CloysterDexEntry
-	dw DratiniDexEntry
+	dw NatuDexEntry
 	dw ElectrodeDexEntry
 	dw ClefableDexEntry
 	dw WeezingDexEntry
 	dw PersianDexEntry
 	dw MarowakDexEntry
-	dw DratiniDexEntry
+	dw XatuDexEntry
 	dw HaunterDexEntry
 	dw AbraDexEntry
 	dw AlakazamDexEntry
@@ -154,11 +154,11 @@ PokedexEntryPointers: ; 4047e (10:447e)
 	dw BulbasaurDexEntry
 	dw VenusaurDexEntry
 	dw TentacruelDexEntry
-	dw DratiniDexEntry
+	dw MareepDexEntry
 	dw GoldeenDexEntry
 	dw SeakingDexEntry
-	dw DratiniDexEntry
-	dw DratiniDexEntry
+	dw FlaaffyDexEntry
+	dw AmpharosDexEntry
 	dw DratiniDexEntry
 	dw DratiniDexEntry
 	dw PonytaDexEntry
@@ -1468,7 +1468,42 @@ LanturnDexEntry:
 	dw 496
 	TX_FAR _LanturnDexEntry
 	db "@"
+	
+NatuDexEntry:
+	db "TINY BIRD@"
+	db 0,8
+	dw 44
+	TX_FAR _NatuDexEntry
+	db "@"
+	
+XatuDexEntry:
+	db "MYSTIC@"
+	db 4,11
+	dw 331
+	TX_FAR _XatuDexEntry
+	db "@"
 
+MareepDexEntry:
+	db "WOOL@"
+	db 2,0
+	dw 172
+	TX_FAR _MareepDexEntry
+	db "@"
+	
+FlaaffyDexEntry:
+	db "WOOL@"
+	db 2,7
+	dw 293
+	TX_FAR _FlaaffyDexEntry
+	db "@"
+
+AmpharosDexEntry:
+	db "LIGHT@"
+	db 4,7
+	dw 1356
+	TX_FAR _AmpharosDexEntry
+	db "@"
+	
 MissingNoDexEntry: ; 40fe5 (10:4fe5)
 	db "???@"
 	db 10 ; 1.0 m
