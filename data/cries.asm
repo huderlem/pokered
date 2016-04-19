@@ -94,7 +94,7 @@ CryData: ; 39446 (e:5446)
 	db $19, $99, $10; Horsea
 	db $19, $3C, $01; Seadra
 	db $13, $60, $80; Ariados
-	db $0F, $20, $C0; MissingNo.
+	db $1D, $FA, $80; Crobat
 	db $00, $20, $40; Sandshrew
 	db $00, $FF, $FF; Sandslash
 	db $1F, $F0, $01; Omanyte

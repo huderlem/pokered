@@ -1510,10 +1510,15 @@ Mon168_EvosMoves: ; 3b5f8 (e:75f8)
 	db 0
 
 Mon169_EvosMoves: ; 3b5fa (e:75fa)
-;MISSINGNO
+;CROBAT
 ;Evolutions
 	db 0
 ;Learnset
+	db 10,SUPERSONIC
+	db 15,BITE
+	db 21,CONFUSE_RAY
+	db 32,WING_ATTACK
+	db 43,HAZE
 	db 0
 
 Mon027_EvosMoves: ; 3b5fc (e:75fc)
@@ -1940,6 +1945,8 @@ Mon097_EvosMoves: ; 3b776 (e:7776)
 Mon042_EvosMoves: ; 3b784 (e:7784)
 ;GOLBAT
 ;Evolutions
+	db EV_LEVEL,40
+	dw GOLBAT
 	db 0
 ;Learnset
 	db 10,SUPERSONIC

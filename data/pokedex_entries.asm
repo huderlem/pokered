@@ -93,7 +93,7 @@ PokedexEntryPointers: ; 4047e (10:447e)
 	dw HorseaDexEntry
 	dw SeadraDexEntry
 	dw AriadosDexEntry
-	dw DratiniDexEntry
+	dw CrobatDexEntry
 	dw SandshrewDexEntry
 	dw SandslashDexEntry
 	dw OmanyteDexEntry
@@ -1446,6 +1446,14 @@ AriadosDexEntry:
 	db 3,7
 	dw 740
 	TX_FAR _AriadosDexEntry
+	db "@"
+
+CrobatDexEntry:
+	db "BAT@"
+	db 5,11
+	dw 1653
+	TX_FAR _CrobatDexEntry
+	db "@"
 
 ChinchouDexEntry:
 	db "ANGLER@"
