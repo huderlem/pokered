@@ -161,8 +161,6 @@ BaseStatsPointers::
 	dbw Bank(FeraligatrBaseStats), FeraligatrBaseStats
 	dbw Bank(SentretBaseStats), SentretBaseStats
 	dbw Bank(FurretBaseStats), FurretBaseStats
-	dbw Bank(HoothootBaseStats), HoothootBaseStats
-	dbw Bank(NoctowlBaseStats), NoctowlBaseStats
 	dbw Bank(LedybaBaseStats), LedybaBaseStats
 	dbw Bank(LedianBaseStats), LedianBaseStats
 	dbw Bank(SpinarakBaseStats), SpinarakBaseStats

@@ -1618,26 +1618,6 @@ _FurretDexEntry::
 	next "with speed"
 	dex
 
-_HoothootDexEntry::
-	text "It has a perfect"
-	next "sense of time."
-	next "Whatever happens,"
-
-	page "it keeps rhythm by"
-	next "precisely tilting"
-	next "its head in time"
-	dex
-	
-_NoctowlDexEntry::
-	text "Its extremely soft"
-	next "feathers make no"
-	next "sound in flight."
-	
-	page "It silently sneaks"
-	next "up on prey without"
-	next "being detected"
-	dex
-
 _LedybaDexEntry::
 	text "When the weather"
 	next "turns cold, lots"
