@@ -168,8 +168,6 @@ BaseStatsPointers::
 	dbw Bank(SpinarakBaseStats), SpinarakBaseStats
 	dbw Bank(AriadosBaseStats), AriadosBaseStats
 	dbw Bank(DratiniBaseStats), DratiniBaseStats
-	dbw Bank(DratiniBaseStats), DratiniBaseStats
-	dbw Bank(DratiniBaseStats), DratiniBaseStats
 	dbw Bank(ChinchouBaseStats), ChinchouBaseStats
 	dbw Bank(LanturnBaseStats), LanturnBaseStats
 	dbw Bank(DratiniBaseStats), DratiniBaseStats
