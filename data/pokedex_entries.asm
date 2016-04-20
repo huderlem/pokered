@@ -159,8 +159,8 @@ PokedexEntryPointers: ; 4047e (10:447e)
 	dw SeakingDexEntry
 	dw FlaaffyDexEntry
 	dw AmpharosDexEntry
-	dw DratiniDexEntry
-	dw DratiniDexEntry
+	dw BellossomDexEntry
+	dw MarillDexEntry
 	dw PonytaDexEntry
 	dw RapidashDexEntry
 	dw RattataDexEntry
@@ -170,9 +170,9 @@ PokedexEntryPointers: ; 4047e (10:447e)
 	dw GeodudeDexEntry
 	dw PorygonDexEntry
 	dw AerodactylDexEntry
-	dw DratiniDexEntry
+	dw AzumarillDexEntry
 	dw MagnemiteDexEntry
-	dw DratiniDexEntry
+	dw SudowoodoDexEntry
 	dw DratiniDexEntry
 	dw CharmanderDexEntry
 	dw SquirtleDexEntry

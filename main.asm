@@ -7109,13 +7109,10 @@ INCLUDE "data/baseStats/xatu.asm"
 INCLUDE "data/baseStats/mareep.asm"
 INCLUDE "data/baseStats/flaaffy.asm"
 INCLUDE "data/baseStats/ampharos.asm"
-<<<<<<< HEAD
 INCLUDE "data/baseStats/bellossom.asm"
 INCLUDE "data/baseStats/marill.asm"
 INCLUDE "data/baseStats/azumarill.asm"
 INCLUDE "data/baseStats/sudowoodo.asm"
-=======
->>>>>>> 6043343daa1470f5c767b3913ef803901b12069b
 
 INCLUDE "data/baseStats/swampert.asm"
 
@@ -7268,7 +7265,6 @@ MareepPicBack::        INCBIN "pic/monback/mareepb.pic"
 FlaaffyPicFront::       INCBIN "pic/bmon/flaaffy.pic"
 FlaaffyPicBack::        INCBIN "pic/monback/flaaffyb.pic"
 AmpharosPicFront::       INCBIN "pic/bmon/ampharos.pic"
-<<<<<<< HEAD
 AmpharosPicBack::        INCBIN "pic/monback/ampharosb.pic"
 BellossomPicFront::       INCBIN "pic/bmon/bellossom.pic"
 BellossomPicBack::        INCBIN "pic/monback/bellossomb.pic"
@@ -7278,6 +7274,3 @@ AzumarillPicFront::       INCBIN "pic/bmon/azumarill.pic"
 AzumarillPicBack::        INCBIN "pic/monback/azumarillb.pic"
 SudowoodoPicFront::       INCBIN "pic/bmon/sudowoodo.pic"
 SudowoodoPicBack::        INCBIN "pic/monback/sudowoodob.pic"
-=======
-AmpharosPicBack::        INCBIN "pic/monback/ampharosb.pic"
->>>>>>> 6043343daa1470f5c767b3913ef803901b12069b
