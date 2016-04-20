@@ -4,7 +4,7 @@
 
 ; Viridian
 ViridianMartText6:: ; 2442 (0:2442)
-	db $FE,4,POKE_BALL,SUN_STONE,PARLYZ_HEAL,BURN_HEAL,$FF
+	db $FE,4,POKE_BALL,ANTIDOTE,PARLYZ_HEAL,BURN_HEAL,$FF
 
 ; Pewter
 PewterMartText1:: ; 2449 (0:2449)
