@@ -136,20 +136,20 @@ MonPartyData:
 	dn SPRITE_BUG, SPRITE_GRASS				;Dustox/Lotad
 	dn SPRITE_GRASS, SPRITE_GRASS			;Lombre/Ludicolo
 	dn SPRITE_GRASS, SPRITE_GRASS			;Seedot/Nuzleaf
-	dn SPRITE_GRASS, SPRITE_MON				;Shiftry/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
-	dn SPRITE_SNAKE, SPRITE_MON				;Dragonite/Mewtwo
+	dn SPRITE_GRASS, SPRITE_BIRD_M			;Shiftry/Taillow
+	dn SPRITE_BIRD_M, SPRITE_BIRD_M			;Swellow/Wingull
+	dn SPRITE_BIRD_M, SPRITE_FAIRY			;Pelipper/Ralts
+	dn SPRITE_FAIRY, SPRITE_FAIRY			;Kirlia/Gardevoir
+	dn SPRITE_BUG, SPRITE_BUG				;Surskit/Masquerain
+	dn SPRITE_GRASS, SPRITE_GRASS			;Shroomish/Breloom
+	dn SPRITE_MON, SPRITE_MON				;Slakoth/Vigoroth
+	dn SPRITE_MON, SPRITE_BUG				;Slaking/Nincada
+	dn SPRITE_BUG, SPRITE_BUG				;Ninjask/Shedinja
+	dn SPRITE_FAIRY, SPRITE_MON			    ;Whismur/Loudred
+	dn SPRITE_MON, SPRITE_MON				;Exploud/Makuhita
+	dn SPRITE_MON, SPRITE_FAIRY				;Hariyama/Azurill
+	dn SPRITE_BALL_M, SPRITE_QUADRUPED		;Nosepass/Skitty
+	dn SPRITE_QUADRUPED, SPRITE_MON			;Delcatty/Sableye
+	dn SPRITE_MON, SPRITE_MON				;Mawile/Aron
+	dn SPRITE_MON, SPRITE_MON				;Lairon/Aggron
+	dn SPRITE_MON, SPRITE_MON				;Meditite/Medicham

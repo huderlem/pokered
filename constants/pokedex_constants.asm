@@ -275,5 +275,36 @@ const_value = 1
 	const DEX_SEEDOT     ; 273
 	const DEX_NUZLEAF    ; 274
 	const DEX_SHIFTRY    ; 275
-	
-NUM_POKEMON    EQU 275
+	const DEX_TAILLOW    ; 276
+	const DEX_SWELLOW    ; 277
+	const DEX_WINGULL    ; 278
+	const DEX_PELIPPER   ; 279
+	const DEX_RALTS      ; 280
+	const DEX_KIRLIA     ; 281
+	const DEX_GARDEVOIR  ; 282
+	const DEX_SURSKIT    ; 283
+	const DEX_MASQUERAIN ; 284
+	const DEX_SHROOMISH  ; 285
+	const DEX_BRELOOM    ; 286
+	const DEX_SLAKOTH    ; 287
+	const DEX_VIGOROTH   ; 288
+	const DEX_SLAKING    ; 289
+	const DEX_NINCADA    ; 290
+	const DEX_NINJASK    ; 291
+	const DEX_SHEDINJA   ; 292
+	const DEX_WHISMUR    ; 293
+	const DEX_LOUDRED    ; 294
+	const DEX_EXPLOUD    ; 295
+	const DEX_MAKUHITA   ; 296
+	const DEX_HARIYAMA   ; 297
+	const DEX_AZURILL    ; 298
+	const DEX_NOSEPASS   ; 299
+    const DEX_SKITTY     ; 300
+    const DEX_DELCATTY   ; 301
+    const DEX_SABLEYE    ; 302
+    const DEX_MAWILE     ; 303
+    const DEX_ARON       ; 304
+    const DEX_LAIRON     ; 305
+    const DEX_AGGRON     ; 306
+    const DEX_MEDITITE   ; 307
+    const DEX_MEDICHAM   ; 308

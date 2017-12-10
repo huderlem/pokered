@@ -1,282 +1,317 @@
 EvosMovesPointerTable:
-	dbw Bank(Mon112_EvosMoves), Mon112_EvosMoves
-	dbw Bank(Mon115_EvosMoves), Mon115_EvosMoves
-	dbw Bank(Mon032_EvosMoves), Mon032_EvosMoves
-	dbw Bank(Mon035_EvosMoves), Mon035_EvosMoves
-	dbw Bank(Mon021_EvosMoves), Mon021_EvosMoves
-	dbw Bank(Mon100_EvosMoves), Mon100_EvosMoves
-	dbw Bank(Mon034_EvosMoves), Mon034_EvosMoves
-	dbw Bank(Mon080_EvosMoves), Mon080_EvosMoves
-	dbw Bank(Mon002_EvosMoves), Mon002_EvosMoves
-	dbw Bank(Mon103_EvosMoves), Mon103_EvosMoves
-	dbw Bank(Mon108_EvosMoves), Mon108_EvosMoves
-	dbw Bank(Mon102_EvosMoves), Mon102_EvosMoves
-	dbw Bank(Mon088_EvosMoves), Mon088_EvosMoves
-	dbw Bank(Mon094_EvosMoves), Mon094_EvosMoves
-	dbw Bank(Mon029_EvosMoves), Mon029_EvosMoves
-	dbw Bank(Mon031_EvosMoves), Mon031_EvosMoves
-	dbw Bank(Mon104_EvosMoves), Mon104_EvosMoves
-	dbw Bank(Mon111_EvosMoves), Mon111_EvosMoves
-	dbw Bank(Mon131_EvosMoves), Mon131_EvosMoves
-	dbw Bank(Mon059_EvosMoves), Mon059_EvosMoves
-	dbw Bank(Mon151_EvosMoves), Mon151_EvosMoves
-	dbw Bank(Mon130_EvosMoves), Mon130_EvosMoves
-	dbw Bank(Mon090_EvosMoves), Mon090_EvosMoves
-	dbw Bank(Mon072_EvosMoves), Mon072_EvosMoves
-	dbw Bank(Mon092_EvosMoves), Mon092_EvosMoves
-	dbw Bank(Mon123_EvosMoves), Mon123_EvosMoves
-	dbw Bank(Mon120_EvosMoves), Mon120_EvosMoves
-	dbw Bank(Mon009_EvosMoves), Mon009_EvosMoves
-	dbw Bank(Mon127_EvosMoves), Mon127_EvosMoves
-	dbw Bank(Mon114_EvosMoves), Mon114_EvosMoves
-	dbw Bank(Mon152_EvosMoves), Mon152_EvosMoves
-	dbw Bank(Mon153_EvosMoves), Mon153_EvosMoves
-	dbw Bank(Mon058_EvosMoves), Mon058_EvosMoves
-	dbw Bank(Mon095_EvosMoves), Mon095_EvosMoves
-	dbw Bank(Mon022_EvosMoves), Mon022_EvosMoves
-	dbw Bank(Mon016_EvosMoves), Mon016_EvosMoves
-	dbw Bank(Mon079_EvosMoves), Mon079_EvosMoves
-	dbw Bank(Mon064_EvosMoves), Mon064_EvosMoves
-	dbw Bank(Mon075_EvosMoves), Mon075_EvosMoves
-	dbw Bank(Mon113_EvosMoves), Mon113_EvosMoves
-	dbw Bank(Mon067_EvosMoves), Mon067_EvosMoves
-	dbw Bank(Mon122_EvosMoves), Mon122_EvosMoves
-	dbw Bank(Mon106_EvosMoves), Mon106_EvosMoves
-	dbw Bank(Mon107_EvosMoves), Mon107_EvosMoves
-	dbw Bank(Mon024_EvosMoves), Mon024_EvosMoves
-	dbw Bank(Mon047_EvosMoves), Mon047_EvosMoves
-	dbw Bank(Mon054_EvosMoves), Mon054_EvosMoves
-	dbw Bank(Mon096_EvosMoves), Mon096_EvosMoves
-	dbw Bank(Mon076_EvosMoves), Mon076_EvosMoves
-	dbw Bank(Mon154_EvosMoves), Mon154_EvosMoves
-	dbw Bank(Mon126_EvosMoves), Mon126_EvosMoves
-	dbw Bank(Mon155_EvosMoves), Mon155_EvosMoves
-	dbw Bank(Mon125_EvosMoves), Mon125_EvosMoves
-	dbw Bank(Mon082_EvosMoves), Mon082_EvosMoves
-	dbw Bank(Mon109_EvosMoves), Mon109_EvosMoves
-	dbw Bank(Mon156_EvosMoves), Mon156_EvosMoves
-	dbw Bank(Mon056_EvosMoves), Mon056_EvosMoves
-	dbw Bank(Mon086_EvosMoves), Mon086_EvosMoves
-	dbw Bank(Mon050_EvosMoves), Mon050_EvosMoves
-	dbw Bank(Mon128_EvosMoves), Mon128_EvosMoves
-	dbw Bank(Mon157_EvosMoves), Mon157_EvosMoves
-	dbw Bank(Mon158_EvosMoves), Mon158_EvosMoves
-	dbw Bank(Mon159_EvosMoves), Mon159_EvosMoves
-	dbw Bank(Mon083_EvosMoves), Mon083_EvosMoves
-	dbw Bank(Mon048_EvosMoves), Mon048_EvosMoves
-	dbw Bank(Mon149_EvosMoves), Mon149_EvosMoves
-	dbw Bank(Mon160_EvosMoves), Mon160_EvosMoves
-	dbw Bank(Mon161_EvosMoves), Mon161_EvosMoves
-	dbw Bank(Mon162_EvosMoves), Mon162_EvosMoves
-	dbw Bank(Mon084_EvosMoves), Mon084_EvosMoves
-	dbw Bank(Mon060_EvosMoves), Mon060_EvosMoves
-	dbw Bank(Mon124_EvosMoves), Mon124_EvosMoves
-	dbw Bank(Mon146_EvosMoves), Mon146_EvosMoves
-	dbw Bank(Mon144_EvosMoves), Mon144_EvosMoves
-	dbw Bank(Mon145_EvosMoves), Mon145_EvosMoves
-	dbw Bank(Mon132_EvosMoves), Mon132_EvosMoves
-	dbw Bank(Mon052_EvosMoves), Mon052_EvosMoves
-	dbw Bank(Mon098_EvosMoves), Mon098_EvosMoves
-	dbw Bank(Mon163_EvosMoves), Mon163_EvosMoves
-	dbw Bank(Mon164_EvosMoves), Mon164_EvosMoves
-	dbw Bank(Mon165_EvosMoves), Mon165_EvosMoves
-	dbw Bank(Mon037_EvosMoves), Mon037_EvosMoves
-	dbw Bank(Mon038_EvosMoves), Mon038_EvosMoves
-	dbw Bank(Mon025_EvosMoves), Mon025_EvosMoves
-	dbw Bank(Mon026_EvosMoves), Mon026_EvosMoves
-	dbw Bank(Mon166_EvosMoves), Mon166_EvosMoves
-	dbw Bank(Mon167_EvosMoves), Mon167_EvosMoves
-	dbw Bank(Mon147_EvosMoves), Mon147_EvosMoves
-	dbw Bank(Mon148_EvosMoves), Mon148_EvosMoves
-	dbw Bank(Mon140_EvosMoves), Mon140_EvosMoves
-	dbw Bank(Mon141_EvosMoves), Mon141_EvosMoves
-	dbw Bank(Mon116_EvosMoves), Mon116_EvosMoves
-	dbw Bank(Mon117_EvosMoves), Mon117_EvosMoves
-	dbw Bank(Mon168_EvosMoves), Mon168_EvosMoves
-	dbw Bank(Mon169_EvosMoves), Mon169_EvosMoves
-	dbw Bank(Mon027_EvosMoves), Mon027_EvosMoves
-	dbw Bank(Mon028_EvosMoves), Mon028_EvosMoves
-	dbw Bank(Mon138_EvosMoves), Mon138_EvosMoves
-	dbw Bank(Mon139_EvosMoves), Mon139_EvosMoves
-	dbw Bank(Mon039_EvosMoves), Mon039_EvosMoves
-	dbw Bank(Mon040_EvosMoves), Mon040_EvosMoves
-	dbw Bank(Mon133_EvosMoves), Mon133_EvosMoves
-	dbw Bank(Mon136_EvosMoves), Mon136_EvosMoves
-	dbw Bank(Mon135_EvosMoves), Mon135_EvosMoves
-	dbw Bank(Mon134_EvosMoves), Mon134_EvosMoves
-	dbw Bank(Mon066_EvosMoves), Mon066_EvosMoves
-	dbw Bank(Mon041_EvosMoves), Mon041_EvosMoves
-	dbw Bank(Mon023_EvosMoves), Mon023_EvosMoves
-	dbw Bank(Mon046_EvosMoves), Mon046_EvosMoves
-	dbw Bank(Mon061_EvosMoves), Mon061_EvosMoves
-	dbw Bank(Mon062_EvosMoves), Mon062_EvosMoves
-	dbw Bank(Mon013_EvosMoves), Mon013_EvosMoves
-	dbw Bank(Mon014_EvosMoves), Mon014_EvosMoves
-	dbw Bank(Mon015_EvosMoves), Mon015_EvosMoves
-	dbw Bank(Mon170_EvosMoves), Mon170_EvosMoves
-	dbw Bank(Mon085_EvosMoves), Mon085_EvosMoves
-	dbw Bank(Mon057_EvosMoves), Mon057_EvosMoves
-	dbw Bank(Mon051_EvosMoves), Mon051_EvosMoves
-	dbw Bank(Mon049_EvosMoves), Mon049_EvosMoves
-	dbw Bank(Mon087_EvosMoves), Mon087_EvosMoves
-	dbw Bank(Mon171_EvosMoves), Mon171_EvosMoves
-	dbw Bank(Mon172_EvosMoves), Mon172_EvosMoves
-	dbw Bank(Mon010_EvosMoves), Mon010_EvosMoves
-	dbw Bank(Mon011_EvosMoves), Mon011_EvosMoves
-	dbw Bank(Mon012_EvosMoves), Mon012_EvosMoves
-	dbw Bank(Mon068_EvosMoves), Mon068_EvosMoves
-	dbw Bank(Mon173_EvosMoves), Mon173_EvosMoves
-	dbw Bank(Mon055_EvosMoves), Mon055_EvosMoves
-	dbw Bank(Mon097_EvosMoves), Mon097_EvosMoves
-	dbw Bank(Mon042_EvosMoves), Mon042_EvosMoves
-	dbw Bank(Mon150_EvosMoves), Mon150_EvosMoves
-	dbw Bank(Mon143_EvosMoves), Mon143_EvosMoves
-	dbw Bank(Mon129_EvosMoves), Mon129_EvosMoves
-	dbw Bank(Mon174_EvosMoves), Mon174_EvosMoves
-	dbw Bank(Mon175_EvosMoves), Mon175_EvosMoves
-	dbw Bank(Mon089_EvosMoves), Mon089_EvosMoves
-	dbw Bank(Mon176_EvosMoves), Mon176_EvosMoves
-	dbw Bank(Mon099_EvosMoves), Mon099_EvosMoves
-	dbw Bank(Mon091_EvosMoves), Mon091_EvosMoves
-	dbw Bank(Mon177_EvosMoves), Mon177_EvosMoves
-	dbw Bank(Mon101_EvosMoves), Mon101_EvosMoves
-	dbw Bank(Mon036_EvosMoves), Mon036_EvosMoves
-	dbw Bank(Mon110_EvosMoves), Mon110_EvosMoves
-	dbw Bank(Mon053_EvosMoves), Mon053_EvosMoves
-	dbw Bank(Mon105_EvosMoves), Mon105_EvosMoves
-	dbw Bank(Mon178_EvosMoves), Mon178_EvosMoves
-	dbw Bank(Mon093_EvosMoves), Mon093_EvosMoves
-	dbw Bank(Mon063_EvosMoves), Mon063_EvosMoves
-	dbw Bank(Mon065_EvosMoves), Mon065_EvosMoves
-	dbw Bank(Mon017_EvosMoves), Mon017_EvosMoves
-	dbw Bank(Mon018_EvosMoves), Mon018_EvosMoves
-	dbw Bank(Mon121_EvosMoves), Mon121_EvosMoves
-	dbw Bank(Mon001_EvosMoves), Mon001_EvosMoves
-	dbw Bank(Mon003_EvosMoves), Mon003_EvosMoves
-	dbw Bank(Mon073_EvosMoves), Mon073_EvosMoves
-	dbw Bank(Mon179_EvosMoves), Mon179_EvosMoves
-	dbw Bank(Mon118_EvosMoves), Mon118_EvosMoves
-	dbw Bank(Mon119_EvosMoves), Mon119_EvosMoves
-	dbw Bank(Mon180_EvosMoves), Mon180_EvosMoves
-	dbw Bank(Mon181_EvosMoves), Mon181_EvosMoves
-	dbw Bank(Mon182_EvosMoves), Mon182_EvosMoves
-	dbw Bank(Mon183_EvosMoves), Mon183_EvosMoves
-	dbw Bank(Mon077_EvosMoves), Mon077_EvosMoves
-	dbw Bank(Mon078_EvosMoves), Mon078_EvosMoves
-	dbw Bank(Mon019_EvosMoves), Mon019_EvosMoves
-	dbw Bank(Mon020_EvosMoves), Mon020_EvosMoves
-	dbw Bank(Mon033_EvosMoves), Mon033_EvosMoves
-	dbw Bank(Mon030_EvosMoves), Mon030_EvosMoves
-	dbw Bank(Mon074_EvosMoves), Mon074_EvosMoves
-	dbw Bank(Mon137_EvosMoves), Mon137_EvosMoves
-	dbw Bank(Mon142_EvosMoves), Mon142_EvosMoves
-	dbw Bank(Mon184_EvosMoves), Mon184_EvosMoves
-	dbw Bank(Mon081_EvosMoves), Mon081_EvosMoves
-	dbw Bank(Mon185_EvosMoves), Mon185_EvosMoves
-	dbw Bank(Mon186_EvosMoves), Mon186_EvosMoves
-	dbw Bank(Mon004_EvosMoves), Mon004_EvosMoves
-	dbw Bank(Mon007_EvosMoves), Mon007_EvosMoves
-	dbw Bank(Mon005_EvosMoves), Mon005_EvosMoves
-	dbw Bank(Mon008_EvosMoves), Mon008_EvosMoves
-	dbw Bank(Mon006_EvosMoves), Mon006_EvosMoves
-	dbw Bank(Mon187_EvosMoves), Mon187_EvosMoves
-	dbw Bank(Null_EvosMoves), Null_EvosMoves
-	dbw Bank(Null_EvosMoves), Null_EvosMoves
-	dbw Bank(Null_EvosMoves), Null_EvosMoves
-	dbw Bank(Mon043_EvosMoves), Mon043_EvosMoves
-	dbw Bank(Mon044_EvosMoves), Mon044_EvosMoves
-	dbw Bank(Mon045_EvosMoves), Mon045_EvosMoves
-	dbw Bank(Mon069_EvosMoves), Mon069_EvosMoves
-	dbw Bank(Mon070_EvosMoves), Mon070_EvosMoves
-	dbw Bank(Mon071_EvosMoves), Mon071_EvosMoves
-	dbw Bank(Mon188_EvosMoves), Mon188_EvosMoves
-	dbw Bank(Mon189_EvosMoves), Mon189_EvosMoves
-	dbw Bank(Mon190_EvosMoves), Mon190_EvosMoves
-	dbw Bank(Mon191_EvosMoves), Mon191_EvosMoves
-	dbw Bank(Mon192_EvosMoves), Mon192_EvosMoves
-	dbw Bank(Mon193_EvosMoves), Mon193_EvosMoves
-	dbw Bank(Mon194_EvosMoves), Mon194_EvosMoves
-	dbw Bank(Mon195_EvosMoves), Mon195_EvosMoves
-	dbw Bank(Mon196_EvosMoves), Mon196_EvosMoves
-	dbw Bank(Mon197_EvosMoves), Mon197_EvosMoves
-	dbw Bank(Mon198_EvosMoves), Mon198_EvosMoves
-	dbw Bank(Mon199_EvosMoves), Mon199_EvosMoves
-	dbw Bank(Mon200_EvosMoves), Mon200_EvosMoves
-	dbw Bank(Mon201_EvosMoves), Mon201_EvosMoves
-	dbw Bank(Mon202_EvosMoves), Mon202_EvosMoves
-	dbw Bank(Mon203_EvosMoves), Mon203_EvosMoves
-	dbw Bank(Mon204_EvosMoves), Mon204_EvosMoves
-	dbw Bank(Mon205_EvosMoves), Mon205_EvosMoves
-	dbw Bank(Mon206_EvosMoves), Mon206_EvosMoves
-	dbw Bank(Mon207_EvosMoves), Mon207_EvosMoves
-	dbw Bank(Mon208_EvosMoves), Mon208_EvosMoves
-	dbw Bank(Mon209_EvosMoves), Mon209_EvosMoves
-	dbw Bank(Mon210_EvosMoves), Mon210_EvosMoves
-	dbw Bank(Mon211_EvosMoves), Mon211_EvosMoves
-	dbw Bank(Mon212_EvosMoves), Mon212_EvosMoves
-	dbw Bank(Mon213_EvosMoves), Mon213_EvosMoves
-	dbw Bank(Mon214_EvosMoves), Mon214_EvosMoves
-	dbw Bank(Mon215_EvosMoves), Mon215_EvosMoves
-	dbw Bank(Mon216_EvosMoves), Mon216_EvosMoves
-	dbw Bank(Mon217_EvosMoves), Mon217_EvosMoves
-	dbw Bank(Mon218_EvosMoves), Mon218_EvosMoves
-	dbw Bank(Mon219_EvosMoves), Mon219_EvosMoves
-	dbw Bank(Mon220_EvosMoves), Mon220_EvosMoves
-	dbw Bank(Mon221_EvosMoves), Mon221_EvosMoves
-	dbw Bank(Mon222_EvosMoves), Mon222_EvosMoves
-	dbw Bank(Mon223_EvosMoves), Mon223_EvosMoves
-	dbw Bank(Mon224_EvosMoves), Mon224_EvosMoves
-	dbw Bank(Mon225_EvosMoves), Mon225_EvosMoves
-	dbw Bank(Mon226_EvosMoves), Mon226_EvosMoves
-	dbw Bank(Mon227_EvosMoves), Mon227_EvosMoves
-	dbw Bank(Mon228_EvosMoves), Mon228_EvosMoves
-	dbw Bank(Mon229_EvosMoves), Mon229_EvosMoves
-	dbw Bank(Mon230_EvosMoves), Mon230_EvosMoves
-	dbw Bank(Mon231_EvosMoves), Mon231_EvosMoves
-	dbw Bank(Mon232_EvosMoves), Mon232_EvosMoves
-	dbw Bank(Mon233_EvosMoves), Mon233_EvosMoves
-	dbw Bank(Mon234_EvosMoves), Mon234_EvosMoves
-	dbw Bank(Mon235_EvosMoves), Mon235_EvosMoves
-	dbw Bank(Mon236_EvosMoves), Mon236_EvosMoves
-	dbw Bank(Mon237_EvosMoves), Mon237_EvosMoves
-	dbw Bank(Mon238_EvosMoves), Mon238_EvosMoves
-	dbw Bank(Mon239_EvosMoves), Mon239_EvosMoves
-	dbw Bank(Mon240_EvosMoves), Mon240_EvosMoves
-	dbw Bank(Mon241_EvosMoves), Mon241_EvosMoves
-	dbw Bank(Mon242_EvosMoves), Mon242_EvosMoves
-	dbw Bank(Mon243_EvosMoves), Mon243_EvosMoves
-	dbw Bank(Mon244_EvosMoves), Mon244_EvosMoves
-	dbw Bank(Mon245_EvosMoves), Mon245_EvosMoves
-	dbw Bank(Mon246_EvosMoves), Mon246_EvosMoves
-	dbw Bank(Mon247_EvosMoves), Mon247_EvosMoves
-	dbw Bank(Mon248_EvosMoves), Mon248_EvosMoves
-	dbw Bank(Mon249_EvosMoves), Mon249_EvosMoves
-	dbw Bank(Mon250_EvosMoves), Mon250_EvosMoves
-	dbw Bank(Mon251_EvosMoves), Mon251_EvosMoves
-	dbw Bank(Mon252_EvosMoves), Mon252_EvosMoves
-	dbw Bank(Mon253_EvosMoves), Mon253_EvosMoves
-	dbw Bank(Mon254_EvosMoves), Mon254_EvosMoves
-	dbw Bank(Mon255_EvosMoves), Mon255_EvosMoves
-	dbw Bank(Mon256_EvosMoves), Mon256_EvosMoves
-	dbw Bank(Mon257_EvosMoves), Mon257_EvosMoves
-	dbw Bank(Mon258_EvosMoves), Mon258_EvosMoves
-	dbw Bank(Mon259_EvosMoves), Mon259_EvosMoves
-	dbw Bank(Mon260_EvosMoves), Mon260_EvosMoves
-	dbw Bank(Mon261_EvosMoves), Mon261_EvosMoves
-	dbw Bank(Mon262_EvosMoves), Mon262_EvosMoves
-	dbw Bank(Mon263_EvosMoves), Mon263_EvosMoves
-	dbw Bank(Mon264_EvosMoves), Mon264_EvosMoves
-	dbw Bank(Mon265_EvosMoves), Mon265_EvosMoves
-	dbw Bank(Mon266_EvosMoves), Mon266_EvosMoves
-	dbw Bank(Mon267_EvosMoves), Mon267_EvosMoves
-	dbw Bank(Mon268_EvosMoves), Mon268_EvosMoves
-	dbw Bank(Mon269_EvosMoves), Mon269_EvosMoves
-	dbw Bank(Mon270_EvosMoves), Mon270_EvosMoves
-	dbw Bank(Mon271_EvosMoves), Mon271_EvosMoves
-	dbw Bank(Mon272_EvosMoves), Mon272_EvosMoves
-	dbw Bank(Mon273_EvosMoves), Mon273_EvosMoves
-	dbw Bank(Mon274_EvosMoves), Mon274_EvosMoves
-	dbw Bank(Mon275_EvosMoves), Mon275_EvosMoves
+	far_ptr Mon001_EvosMoves
+	far_ptr Mon002_EvosMoves
+	far_ptr Mon003_EvosMoves
+	far_ptr Mon004_EvosMoves
+	far_ptr Mon005_EvosMoves
+	far_ptr Mon006_EvosMoves
+	far_ptr Mon007_EvosMoves
+	far_ptr Mon008_EvosMoves
+	far_ptr Mon009_EvosMoves
+	far_ptr Mon010_EvosMoves
+	far_ptr Mon011_EvosMoves
+	far_ptr Mon012_EvosMoves
+	far_ptr Mon013_EvosMoves
+	far_ptr Mon014_EvosMoves
+	far_ptr Mon015_EvosMoves
+	far_ptr Mon016_EvosMoves
+	far_ptr Mon017_EvosMoves
+	far_ptr Mon018_EvosMoves
+	far_ptr Mon019_EvosMoves
+	far_ptr Mon020_EvosMoves
+	far_ptr Mon021_EvosMoves
+	far_ptr Mon022_EvosMoves
+	far_ptr Mon023_EvosMoves
+	far_ptr Mon024_EvosMoves
+	far_ptr Mon025_EvosMoves
+	far_ptr Mon026_EvosMoves
+	far_ptr Mon027_EvosMoves
+	far_ptr Mon028_EvosMoves
+	far_ptr Mon029_EvosMoves
+	far_ptr Mon030_EvosMoves
+	far_ptr Mon031_EvosMoves
+	far_ptr Mon032_EvosMoves
+	far_ptr Mon033_EvosMoves
+	far_ptr Mon034_EvosMoves
+	far_ptr Mon035_EvosMoves
+	far_ptr Mon036_EvosMoves
+	far_ptr Mon037_EvosMoves
+	far_ptr Mon038_EvosMoves
+	far_ptr Mon039_EvosMoves
+	far_ptr Mon040_EvosMoves
+	far_ptr Mon041_EvosMoves
+	far_ptr Mon042_EvosMoves
+	far_ptr Mon043_EvosMoves
+	far_ptr Mon044_EvosMoves
+	far_ptr Mon045_EvosMoves
+	far_ptr Mon046_EvosMoves
+	far_ptr Mon047_EvosMoves
+	far_ptr Mon048_EvosMoves
+	far_ptr Mon049_EvosMoves
+	far_ptr Mon050_EvosMoves
+	far_ptr Mon051_EvosMoves
+	far_ptr Mon052_EvosMoves
+	far_ptr Mon053_EvosMoves
+	far_ptr Mon054_EvosMoves
+	far_ptr Mon055_EvosMoves
+	far_ptr Mon056_EvosMoves
+	far_ptr Mon057_EvosMoves
+	far_ptr Mon058_EvosMoves
+	far_ptr Mon059_EvosMoves
+	far_ptr Mon060_EvosMoves
+	far_ptr Mon061_EvosMoves
+	far_ptr Mon062_EvosMoves
+	far_ptr Mon063_EvosMoves
+	far_ptr Mon064_EvosMoves
+	far_ptr Mon065_EvosMoves
+	far_ptr Mon066_EvosMoves
+	far_ptr Mon067_EvosMoves
+	far_ptr Mon068_EvosMoves
+	far_ptr Mon069_EvosMoves
+	far_ptr Mon070_EvosMoves
+	far_ptr Mon071_EvosMoves
+	far_ptr Mon072_EvosMoves
+	far_ptr Mon073_EvosMoves
+	far_ptr Mon074_EvosMoves
+	far_ptr Mon075_EvosMoves
+	far_ptr Mon076_EvosMoves
+	far_ptr Mon077_EvosMoves
+	far_ptr Mon078_EvosMoves
+	far_ptr Mon079_EvosMoves
+	far_ptr Mon080_EvosMoves
+	far_ptr Mon081_EvosMoves
+	far_ptr Mon082_EvosMoves
+	far_ptr Mon083_EvosMoves
+	far_ptr Mon084_EvosMoves
+	far_ptr Mon085_EvosMoves
+	far_ptr Mon086_EvosMoves
+	far_ptr Mon087_EvosMoves
+	far_ptr Mon088_EvosMoves
+	far_ptr Mon089_EvosMoves
+	far_ptr Mon090_EvosMoves
+	far_ptr Mon091_EvosMoves
+	far_ptr Mon092_EvosMoves
+	far_ptr Mon093_EvosMoves
+	far_ptr Mon094_EvosMoves
+	far_ptr Mon095_EvosMoves
+	far_ptr Mon096_EvosMoves
+	far_ptr Mon097_EvosMoves
+	far_ptr Mon098_EvosMoves
+	far_ptr Mon099_EvosMoves
+	far_ptr Mon100_EvosMoves
+	far_ptr Mon101_EvosMoves
+	far_ptr Mon102_EvosMoves
+	far_ptr Mon103_EvosMoves
+	far_ptr Mon104_EvosMoves
+	far_ptr Mon105_EvosMoves
+	far_ptr Mon106_EvosMoves
+	far_ptr Mon107_EvosMoves
+	far_ptr Mon108_EvosMoves
+	far_ptr Mon109_EvosMoves
+	far_ptr Mon110_EvosMoves
+	far_ptr Mon111_EvosMoves
+	far_ptr Mon112_EvosMoves
+	far_ptr Mon113_EvosMoves
+	far_ptr Mon114_EvosMoves
+	far_ptr Mon115_EvosMoves
+	far_ptr Mon116_EvosMoves
+	far_ptr Mon117_EvosMoves
+	far_ptr Mon118_EvosMoves
+	far_ptr Mon119_EvosMoves
+	far_ptr Mon120_EvosMoves
+	far_ptr Mon121_EvosMoves
+	far_ptr Mon122_EvosMoves
+	far_ptr Mon123_EvosMoves
+	far_ptr Mon124_EvosMoves
+	far_ptr Mon125_EvosMoves
+	far_ptr Mon126_EvosMoves
+	far_ptr Mon127_EvosMoves
+	far_ptr Mon128_EvosMoves
+	far_ptr Mon129_EvosMoves
+	far_ptr Mon130_EvosMoves
+	far_ptr Mon131_EvosMoves
+	far_ptr Mon132_EvosMoves
+	far_ptr Mon133_EvosMoves
+	far_ptr Mon134_EvosMoves
+	far_ptr Mon135_EvosMoves
+	far_ptr Mon136_EvosMoves
+	far_ptr Mon137_EvosMoves
+	far_ptr Mon138_EvosMoves
+	far_ptr Mon139_EvosMoves
+	far_ptr Mon140_EvosMoves
+	far_ptr Mon141_EvosMoves
+	far_ptr Mon142_EvosMoves
+	far_ptr Mon143_EvosMoves
+	far_ptr Mon144_EvosMoves
+	far_ptr Mon145_EvosMoves
+	far_ptr Mon146_EvosMoves
+	far_ptr Mon147_EvosMoves
+	far_ptr Mon148_EvosMoves
+	far_ptr Mon149_EvosMoves
+	far_ptr Mon150_EvosMoves
+	far_ptr Mon151_EvosMoves
+	far_ptr Mon152_EvosMoves
+	far_ptr Mon153_EvosMoves
+	far_ptr Mon154_EvosMoves
+	far_ptr Mon155_EvosMoves
+	far_ptr Mon156_EvosMoves
+	far_ptr Mon157_EvosMoves
+	far_ptr Mon158_EvosMoves
+	far_ptr Mon159_EvosMoves
+	far_ptr Mon160_EvosMoves
+	far_ptr Mon161_EvosMoves
+	far_ptr Mon162_EvosMoves
+	far_ptr Mon163_EvosMoves
+	far_ptr Mon164_EvosMoves
+	far_ptr Mon165_EvosMoves
+	far_ptr Mon166_EvosMoves
+	far_ptr Mon167_EvosMoves
+	far_ptr Mon168_EvosMoves
+	far_ptr Mon169_EvosMoves
+	far_ptr Mon170_EvosMoves
+	far_ptr Mon171_EvosMoves
+	far_ptr Mon172_EvosMoves
+	far_ptr Mon173_EvosMoves
+	far_ptr Mon174_EvosMoves
+	far_ptr Mon175_EvosMoves
+	far_ptr Mon176_EvosMoves
+	far_ptr Mon177_EvosMoves
+	far_ptr Mon178_EvosMoves
+	far_ptr Mon179_EvosMoves
+	far_ptr Mon180_EvosMoves
+	far_ptr Mon181_EvosMoves
+	far_ptr Mon182_EvosMoves
+	far_ptr Mon183_EvosMoves
+	far_ptr Mon184_EvosMoves
+	far_ptr Mon185_EvosMoves
+	far_ptr Mon186_EvosMoves
+	far_ptr Mon187_EvosMoves
+	far_ptr Mon188_EvosMoves
+	far_ptr Mon189_EvosMoves
+	far_ptr Mon190_EvosMoves
+	far_ptr Mon191_EvosMoves
+	far_ptr Mon192_EvosMoves
+	far_ptr Mon193_EvosMoves
+	far_ptr Mon194_EvosMoves
+	far_ptr Mon195_EvosMoves
+	far_ptr Mon196_EvosMoves
+	far_ptr Mon197_EvosMoves
+	far_ptr Mon198_EvosMoves
+	far_ptr Mon199_EvosMoves
+	far_ptr Mon200_EvosMoves
+	far_ptr Mon201_EvosMoves
+	far_ptr Mon202_EvosMoves
+	far_ptr Mon203_EvosMoves
+	far_ptr Mon204_EvosMoves
+	far_ptr Mon205_EvosMoves
+	far_ptr Mon206_EvosMoves
+	far_ptr Mon207_EvosMoves
+	far_ptr Mon208_EvosMoves
+	far_ptr Mon209_EvosMoves
+	far_ptr Mon210_EvosMoves
+	far_ptr Mon211_EvosMoves
+	far_ptr Mon212_EvosMoves
+	far_ptr Mon213_EvosMoves
+	far_ptr Mon214_EvosMoves
+	far_ptr Mon215_EvosMoves
+	far_ptr Mon216_EvosMoves
+	far_ptr Mon217_EvosMoves
+	far_ptr Mon218_EvosMoves
+	far_ptr Mon219_EvosMoves
+	far_ptr Mon220_EvosMoves
+	far_ptr Mon221_EvosMoves
+	far_ptr Mon222_EvosMoves
+	far_ptr Mon223_EvosMoves
+	far_ptr Mon224_EvosMoves
+	far_ptr Mon225_EvosMoves
+	far_ptr Mon226_EvosMoves
+	far_ptr Mon227_EvosMoves
+	far_ptr Mon228_EvosMoves
+	far_ptr Mon229_EvosMoves
+	far_ptr Mon230_EvosMoves
+	far_ptr Mon231_EvosMoves
+	far_ptr Mon232_EvosMoves
+	far_ptr Mon233_EvosMoves
+	far_ptr Mon234_EvosMoves
+	far_ptr Mon235_EvosMoves
+	far_ptr Mon236_EvosMoves
+	far_ptr Mon237_EvosMoves
+	far_ptr Mon238_EvosMoves
+	far_ptr Mon239_EvosMoves
+	far_ptr Mon240_EvosMoves
+	far_ptr Mon241_EvosMoves
+	far_ptr Mon242_EvosMoves
+	far_ptr Mon243_EvosMoves
+	far_ptr Mon244_EvosMoves
+	far_ptr Mon245_EvosMoves
+	far_ptr Mon246_EvosMoves
+	far_ptr Mon247_EvosMoves
+	far_ptr Mon248_EvosMoves
+	far_ptr Mon249_EvosMoves
+	far_ptr Mon250_EvosMoves
+	far_ptr Mon251_EvosMoves
+	far_ptr Mon252_EvosMoves
+	far_ptr Mon253_EvosMoves
+	far_ptr Mon254_EvosMoves
+	far_ptr Mon255_EvosMoves
+	far_ptr Mon256_EvosMoves
+	far_ptr Mon257_EvosMoves
+	far_ptr Mon258_EvosMoves
+	far_ptr Mon259_EvosMoves
+	far_ptr Mon260_EvosMoves
+	far_ptr Mon261_EvosMoves
+	far_ptr Mon262_EvosMoves
+	far_ptr Mon263_EvosMoves
+	far_ptr Mon264_EvosMoves
+	far_ptr Mon265_EvosMoves
+	far_ptr Mon266_EvosMoves
+	far_ptr Mon267_EvosMoves
+	far_ptr Mon268_EvosMoves
+	far_ptr Mon269_EvosMoves
+	far_ptr Mon270_EvosMoves
+	far_ptr Mon271_EvosMoves
+	far_ptr Mon272_EvosMoves
+	far_ptr Mon273_EvosMoves
+	far_ptr Mon274_EvosMoves
+	far_ptr Mon275_EvosMoves
+	far_ptr Mon276_EvosMoves
+	far_ptr Mon277_EvosMoves
+	far_ptr Mon278_EvosMoves
+	far_ptr Mon279_EvosMoves
+	far_ptr Mon280_EvosMoves
+	far_ptr Mon281_EvosMoves
+	far_ptr Mon282_EvosMoves
+	far_ptr Mon283_EvosMoves
+	far_ptr Mon284_EvosMoves
+	far_ptr Mon285_EvosMoves
+	far_ptr Mon286_EvosMoves
+	far_ptr Mon287_EvosMoves
+	far_ptr Mon288_EvosMoves
+	far_ptr Mon289_EvosMoves
+	far_ptr Mon290_EvosMoves
+	far_ptr Mon291_EvosMoves
+	far_ptr Mon292_EvosMoves
+	far_ptr Mon293_EvosMoves
+	far_ptr Mon294_EvosMoves
+	far_ptr Mon295_EvosMoves
+	far_ptr Mon296_EvosMoves
+	far_ptr Mon297_EvosMoves
+	far_ptr Mon298_EvosMoves
+	far_ptr Mon299_EvosMoves
+	far_ptr Mon300_EvosMoves
+	far_ptr Mon301_EvosMoves
+	far_ptr Mon302_EvosMoves
+	far_ptr Mon303_EvosMoves
+	far_ptr Mon304_EvosMoves
+	far_ptr Mon305_EvosMoves
+	far_ptr Mon306_EvosMoves
+	far_ptr Mon307_EvosMoves
+	far_ptr Mon308_EvosMoves
+
+
+	far_ptr Null_EvosMoves ; Ghost
+	far_ptr Null_EvosMoves ; Fossil
+	far_ptr Null_EvosMoves ; Fossil
 
 Mon112_EvosMoves:
 ;RHYDON
@@ -3943,4 +3978,399 @@ Mon275_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
+	db 0
+
+Mon276_EvosMoves:
+;TAILLOW
+;Evolutions
+	db EV_LEVEL,22
+	dw SWELLOW
+	db 0
+;Learnset
+	db 9,QUICK_ATTACK
+	db 13,WING_ATTACK
+	db 17,DOUBLE_TEAM
+	db 29,AGILITY
+	db 0
+
+Mon277_EvosMoves:
+;SWELLOW
+;Evolutions
+	db 0
+;Learnset
+    db 9,QUICK_ATTACK
+	db 13,WING_ATTACK
+	db 17,DOUBLE_TEAM
+	db 29,AGILITY
+	db 0
+
+Mon278_EvosMoves:
+;WINGULL
+;Evolutions
+	db EV_LEVEL,25
+	dw PELIPPER
+	db 0
+;Learnset
+	db 5,SUPERSONIC
+	db 8,WING_ATTACK
+	db 19,QUICK_ATTACK
+	db 36,AGILITY
+	db 0
+
+Mon279_EvosMoves:
+;PELIPPER
+;Evolutions
+	db 0
+;Learnset
+    db 5,SUPERSONIC
+	db 8,WING_ATTACK
+	db 19,QUICK_ATTACK
+	db 36,AGILITY
+	db 0
+
+Mon280_EvosMoves:
+;RALTS
+;Evolutions
+	db EV_LEVEL,20
+	dw KIRLIA
+	db 0
+;Learnset
+	db 4,CONFUSION
+	db 6,DOUBLE_TEAM
+	db 9,TELEPORT
+	db 27,PSYCHIC_M
+	db 37,HYPNOSIS
+	db 39,DREAM_EATER
+	db 0
+
+Mon281_EvosMoves:
+;KIRLIA
+;Evolutions
+	db EV_LEVEL,30
+	dw GARDEVOIR
+	db 0
+;Learnset
+	db 4,CONFUSION
+	db 6,DOUBLE_TEAM
+	db 9,TELEPORT
+	db 27,PSYCHIC_M
+	db 37,HYPNOSIS
+	db 39,DREAM_EATER
+	db 0
+
+Mon282_EvosMoves:
+;GARDEVOIR
+;Evolutions
+	db 0
+;Learnset
+  db 4,CONFUSION
+	db 6,DOUBLE_TEAM
+	db 9,TELEPORT
+	db 27,PSYCHIC_M
+	db 37,HYPNOSIS
+	db 39,DREAM_EATER
+	db 0
+
+Mon283_EvosMoves:
+;SURSKIT
+;Evolutions
+	db EV_LEVEL,22
+	dw MASQUERAIN
+	db 0
+;Learnset
+	db 6,QUICK_ATTACK
+	db 17,BUBBLEBEAM
+	db 22,AGILITY
+	db 25,MIST
+	db 25,HAZE
+	db 0
+
+Mon284_EvosMoves:
+;MASQUERAIN
+;Evolutions
+	db 0
+;Learnset
+   	db 6,QUICK_ATTACK
+	db 17,BUBBLEBEAM
+	db 22,AGILITY
+	db 25,MIST
+	db 25,HAZE
+	db 0
+
+Mon285_EvosMoves:
+;SHROOMISH
+;Evolutions
+	db EV_LEVEL,23
+	dw BRELOOM
+	db 0
+;Learnset
+	db 4,ABSORB
+	db 5,STUN_SPORE
+	db 8,LEECH_SEED
+	db 12,MEGA_DRAIN
+	db 15,HEADBUTT
+	db 33,TOXIC
+	db 0
+
+Mon286_EvosMoves:
+;BRELOOM
+;Evolutions
+	db 0
+;Learnset
+    db 4,ABSORB
+	db 5,STUN_SPORE
+	db 8,LEECH_SEED
+	db 12,MEGA_DRAIN
+	db 15,HEADBUTT
+	db 33,TOXIC
+	db 0
+
+Mon287_EvosMoves:
+;SLAKOTH
+;Evolutions
+	db EV_LEVEL,18
+	dw VIGOROTH
+	db 0
+;Learnset
+    db 17,AMNESIA
+	db 30,COUNTER
+	db 0
+
+Mon288_EvosMoves:
+;VIGOROTH
+;Evolutions
+	db EV_LEVEL,36
+	dw SLAKING
+	db 0
+;Learnset
+    db 17,AMNESIA
+	db 30,COUNTER
+	db 0
+
+Mon289_EvosMoves:
+;SLAKING
+;Evolutions
+	db 0
+;Learnset
+    db 17,AMNESIA
+	db 30,COUNTER
+	db 0
+
+Mon290_EvosMoves:
+;NINCADA
+;Evolutions
+	db EV_LEVEL,20
+	dw NINJASK
+	db EV_ITEM,MOON_STONE,1
+	dw SHEDINJA
+	db 0
+;Learnset
+    db 5,ABSORB
+	db 9,SAND_ATTACK
+	db 29,BIDE
+	db 37,DIG
+	db 0
+
+Mon291_EvosMoves:
+;NINJASK
+;Evolutions
+	db 0
+;Learnset
+    db 5,ABSORB
+	db 9,SAND_ATTACK
+	db 21,AGILITY
+	db 0
+
+Mon292_EvosMoves:
+;SHEDINJA
+;Evolutions
+	db 0
+;Learnset
+    db 5,ABSORB
+	db 9,SAND_ATTACK
+	db 29,CONFUSE_RAY
+	db 0
+
+Mon293_EvosMoves:
+;WHISMUR
+;Evolutions
+	db EV_LEVEL,20
+	dw LOUDRED
+	db 0
+;Learnset
+    db 15,SCREECH
+	db 18,SUPERSONIC
+	db 22,STOMP
+	db 29,ROAR
+	db 32,REST
+	db 0
+
+Mon294_EvosMoves:
+;LOUDRED
+;Evolutions
+	db EV_LEVEL,40
+	dw EXPLOUD
+	db 0
+;Learnset
+    db 15,SCREECH
+	db 18,SUPERSONIC
+	db 22,STOMP
+	db 29,ROAR
+	db 32,REST
+	db 0
+
+Mon295_EvosMoves:
+;EXPLOUD
+;Evolutions
+	db 0
+;Learnset
+    db 15,SCREECH
+	db 18,SUPERSONIC
+	db 22,STOMP
+	db 29,ROAR
+	db 32,REST
+	db 64,HYPER_BEAM
+	db 0
+
+Mon296_EvosMoves:
+;MAKUHITA
+;Evolutions
+	db EV_LEVEL,24
+	dw HARIYAMA
+	db 0
+;Learnset
+    db 4,SAND_ATTACK
+	db 16,WHIRLWIND
+	db 0
+
+Mon297_EvosMoves:
+;HARIYAMA
+;Evolutions
+	db 0
+;Learnset
+    db 4,SAND_ATTACK
+	db 16,WHIRLWIND
+	db 0
+
+Mon298_EvosMoves:
+;AZURILL
+;Evolutions
+	db EV_LEVEL,15
+	dw MARILL
+	db 0
+;Learnset
+  	db 2,TAIL_WHIP
+	db 7,BUBBLE
+	db 13,BUBBLEBEAM
+	db 20,SLAM
+	db 0
+
+Mon299_EvosMoves:
+;NOSEPASS
+;Evolutions
+	db 0
+;Learnset
+  	db 4,HARDEN
+	db 10,ROCK_THROW
+	db 13,THUNDER_WAVE
+	db 16,REST
+	db 22,ROCK_SLIDE
+	db 0
+
+Mon300_EvosMoves:
+;SKITTY
+;Evolutions
+	db EV_ITEM,MOON_STONE,1
+	dw DELCATTY
+	db 0
+;Learnset
+  	db 7,SING
+	db 40,DOUBLE_EDGE
+	db 0
+
+Mon301_EvosMoves:
+;DELCATTY
+;Evolutions
+	db 0
+;Learnset
+  	db 7,SING
+	db 40,DOUBLE_EDGE
+	db 0
+
+Mon302_EvosMoves:
+;SABLEYE
+;Evolutions
+	db 0
+;Learnset
+  	db 31,CONFUSE_RAY
+	db 0
+
+Mon303_EvosMoves:
+;MAWILE
+;Evolutions
+	db 0
+;Learnset
+  	db 9,BITE
+	db 0
+
+Mon304_EvosMoves:
+;ARON
+;Evolutions
+	db EV_LEVEL,32
+	dw LAIRON
+	db 0
+;Learnset
+  	db 7,HEADBUTT
+  	db 19,ROAR
+  	db 25,ROCK_SLIDE
+  	db 28,TAKE_DOWN
+  	db 40,DOUBLE_EDGE
+	db 0
+
+Mon305_EvosMoves:
+;LAIRON
+;Evolutions
+	db EV_LEVEL,42
+	dw AGGRON
+	db 0
+;Learnset
+  	db 7,HEADBUTT
+  	db 19,ROAR
+  	db 25,ROCK_SLIDE
+  	db 28,TAKE_DOWN
+  	db 40,DOUBLE_EDGE
+	db 0
+
+Mon306_EvosMoves:
+;AGGRON
+;Evolutions
+	db 0
+;Learnset
+  	db 7,HEADBUTT
+  	db 19,ROAR
+  	db 25,ROCK_SLIDE
+  	db 28,TAKE_DOWN
+  	db 40,DOUBLE_EDGE
+	db 0
+
+Mon307_EvosMoves:
+;MEDITITE
+;Evolutions
+	db EV_LEVEL,37
+	dw MEDICHAM
+	db 0
+;Learnset
+  	db 7,CONFUSION
+  	db 41,RECOVER
+  	db 44,COUNTER
+	db 0
+
+Mon308_EvosMoves:
+;MEDICHAM
+;Evolutions
+	db 0
+;Learnset
+  	db 7,CONFUSION
+  	db 41,RECOVER
+  	db 44,COUNTER
 	db 0

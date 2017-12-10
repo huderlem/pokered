@@ -2749,3 +2749,330 @@ _ShiftryDexEntry::
 	next "that can level"
 	next "houses"
 	dex
+
+_TaillowDexEntry::
+	text "It has a"
+	next "fierce spirit,"
+	next "never backing"
+
+	page "down, even"
+	next "against the most"
+	next "powerful foes"
+	dex
+
+_SwellowDexEntry::
+	text "It uses its"
+	next "impressive dive"
+	next "speed and its"
+
+	page "large talons to "
+	next "capture its prey"
+	dex
+
+_WingullDexEntry::
+	text "It will fly"
+	next "through the sky"
+	next "as though surfing"
+
+	page "waves. It normally"
+	next "carries food and"
+	next "other items"
+	dex
+
+_PelipperDexEntry::
+	text "They carry items"
+	next "in their mouths"
+	next "over long"
+
+	page "distances. When"
+	next "tired, they rest"
+	next "afloat water"
+	dex
+
+_RaltsDexEntry::
+	text "It uses the"
+	next "horns on its"
+	next "head to read"
+
+	page "human emotions."
+	next "It rarely shows"
+	next "itself"
+	dex
+
+_KirliaDexEntry::
+	text "It dances when"
+	next "it senses happy"
+	next "feelings from"
+
+	page "its trainer"
+	next "using the horns"
+	next "on its head"
+	dex
+
+_GardevoirDexEntry::
+	text "It is not bound"
+	next "by gravity due"
+	next "to its psychic"
+
+	page "power. It will"
+	next "provide protection"
+	next "at all costs"
+	dex
+
+_SurskitDexEntry::
+	text "It inhabits ponds,"
+	next "rivers, and other"
+	next "wetlands. It skates"
+
+	page "along the water's"
+	next "surface"
+	dex
+
+_MasquerainDexEntry::
+	text "Its feelers, which"
+	next "resemble eyeballs,"
+	next "help to confuse"
+
+	page "foes. It is able"
+	next "to hover in the"
+	next "sky"
+	dex
+
+_ShroomishDexEntry::
+	text "It is mild"
+	next "tempered and"
+	next "inhabits piles"
+
+	page "of rotting leaves"
+	next "inside of forests"
+	dex
+
+_BreloomDexEntry::
+	text "Its excellent"
+	next "footwork gets it"
+	next "within striking"
+
+	page "distance from foes"
+	next "where it unleashes"
+	next "swift punches"
+	dex
+
+_SlakothDexEntry::
+	text "The way it lolls"
+	next "around makes"
+	next "anyone who"
+
+	page "watches it want"
+	next "to do the same"
+	next "thing"
+	dex
+
+_VigorothDexEntry::
+	text "It is always"
+	next "hungry because"
+	next "it won't stop"
+
+	page "rampaging. Even"
+	next "as it eats, it"
+	next "can't sit still"
+	dex
+
+_SlakingDexEntry::
+	text "It lives lying"
+	next "on its side. It"
+	next "only rolls over"
+
+	page "and moves when"
+	next "there is no more"
+	next "grass to eat"
+	dex
+
+_NincadaDexEntry::
+	text "It can sometimes"
+	next "live underground"
+	next "for more than 10"
+
+	page "years. It absorbs"
+	next "nutrients from"
+	next "roots and trees"
+	dex
+
+_NinjaskDexEntry::
+	text "It is so quick,"
+	next "it is said to"
+	next "be able to"
+
+	page "avoid any attack."
+	next "It loves to feed"
+	next "on tree sap"
+	dex
+
+_ShedinjaDexEntry::
+	text "A discarded bug"
+	next "shell that came"
+	next "to life. Peering"
+
+	page "into its back"
+	next "is said to steal"
+	next "one's spirit."
+	dex
+
+_WhismurDexEntry::
+	text "If it senses"
+	next "danger, it scares"
+	next "the foe by crying"
+
+	page "out with the"
+	next "volume of a"
+	next "jet-plane engine"
+	dex
+
+_LoudredDexEntry::
+	text "The shock waves"
+	next "from its cries"
+	next "can tip over"
+
+	page "trucks. It stamps"
+	next "its feet to"
+	next "power up"
+	dex
+
+_ExploudDexEntry::
+	text "Its roar in"
+	next "battle shakes the"
+	next "ground like a"
+
+	page "tremor, or like"
+	next "an earthquake"
+	next "has struck"
+	dex
+
+_MakuhitaDexEntry::
+	text "It toughens its"
+	next "body by slamming"
+	next "into thick trees."
+
+	page "Many snapped trees"
+	next "can be found near"
+	next "its nest"
+	dex
+
+_HariyamaDexEntry::
+	text "It loves to match"
+	next "power with big-"
+	next "bellied Pokemon."
+
+	page "It can knock a"
+	next "truck flying with"
+	next "its arm thrusts"
+	dex
+
+_AzurillDexEntry::
+	text "Its tail bounces"
+	next "like a rubber"
+	next "ball. It flings"
+
+	page "its tail around"
+	next "to fight larger"
+	next "foes"
+	dex
+
+_NosepassDexEntry::
+	text "Its nose is a"
+	next "magnet. As a"
+	next "result, this"
+
+	page "Pokemon always"
+	next "keeps its face"
+	next "pointing north"
+	dex
+
+_SkittyDexEntry::
+	text "It can't stop"
+	next "chasing moving"
+	next "things, and it"
+
+	page "runs in a"
+	next "circle after"
+	next "its own tail"
+	dex
+
+_DelcattyDexEntry::
+	text "It dislikes dirty"
+	next "places. It often"
+	next "searches for a"
+
+	page "comfortable"
+	next "place to"
+	next "groom itself"
+	dex
+
+_SableyeDexEntry::
+	text "It hides in the"
+	next "darkness of"
+	next "caves. Its diet"
+
+	page "of gemstones has"
+	next "transformed its"
+	next "eyes into gems"
+	dex
+
+_MawileDexEntry::
+	text "Attached to its"
+	next "head is a huge"
+	next "set of jaws"
+
+	page "formed by horns."
+	next "It can chew"
+	next "through iron"
+	dex
+
+_AronDexEntry::
+	text "It usually lives"
+	next "deep in mountains."
+	next "However, hunger"
+
+	page "may drive it to"
+	next "eat railroad"
+	next "tracks and cars"
+	dex
+
+_LaironDexEntry::
+	text "For food, it digs"
+	next "up iron ore. It"
+	next "smashes its steely"
+
+	page "body against"
+	next "others to fight"
+	next "over territory"
+	dex
+
+_AggronDexEntry::
+	text "While seeking iron"
+	next "for food, it digs"
+	next "tunnels by"
+
+	page "breaking through"
+	next "bedrock with its"
+	next "steel horns"
+	dex
+
+_MedititeDexEntry::
+	text "It meditates to"
+	next "heighten its"
+	next "inner energy and"
+
+	page "to float in the"
+	next "air. It eats 1"
+	next "berry a day"
+	dex
+
+_MedichamDexEntry::
+	text "Through yoga"
+	next "training, it"
+	next "gained the"
+
+	page "psychic power to"
+	next "predict the next"
+	next "move of its foes"
+	dex
