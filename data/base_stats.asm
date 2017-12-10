@@ -274,3 +274,37 @@ BaseStatsPointers::
 	dbw Bank(SeedotBaseStats), SeedotBaseStats
 	dbw Bank(NuzleafBaseStats), NuzleafBaseStats
 	dbw Bank(ShiftryBaseStats), ShiftryBaseStats
+	dbw Bank(TaillowBaseStats), TaillowBaseStats
+	dbw Bank(SwellowBaseStats), SwellowBaseStats
+	dbw Bank(WingullBaseStats), WingullBaseStats
+	dbw Bank(PelipperBaseStats), PelipperBaseStats
+	dbw Bank(RaltsBaseStats), RaltsBaseStats
+	dbw Bank(KirliaBaseStats), KirliaBaseStats
+	dbw Bank(GardevoirBaseStats), GardevoirBaseStats
+	dbw Bank(SurskitBaseStats), SurskitBaseStats
+	dbw Bank(MasquerainBaseStats), MasquerainBaseStats
+	dbw Bank(ShroomishBaseStats), ShroomishBaseStats
+	dbw Bank(BreloomBaseStats), BreloomBaseStats
+	dbw Bank(SlakothBaseStats), SlakothBaseStats
+	dbw Bank(VigorothBaseStats), VigorothBaseStats
+	dbw Bank(SlakingBaseStats), SlakingBaseStats
+	dbw Bank(NincadaBaseStats), NincadaBaseStats
+	dbw Bank(NinjaskBaseStats), NinjaskBaseStats
+	dbw Bank(ShedinjaBaseStats), ShedinjaBaseStats
+	dbw Bank(WhismurBaseStats), WhismurBaseStats
+	dbw Bank(LoudredBaseStats), LoudredBaseStats
+	dbw Bank(ExploudBaseStats), ExploudBaseStats
+	dbw Bank(MakuhitaBaseStats), MakuhitaBaseStats
+	dbw Bank(HariyamaBaseStats), HariyamaBaseStats
+	dbw Bank(AzurillBaseStats), AzurillBaseStats
+	dbw Bank(NosepassBaseStats), NosepassBaseStats
+	dbw Bank(SkittyBaseStats), SkittyBaseStats
+	dbw Bank(DelcattyBaseStats), DelcattyBaseStats
+	dbw Bank(SableyeBaseStats), SableyeBaseStats
+	dbw Bank(MawileBaseStats), MawileBaseStats
+	dbw Bank(AronBaseStats), AronBaseStats
+	dbw Bank(LaironBaseStats), LaironBaseStats
+	dbw Bank(AggronBaseStats), AggronBaseStats
+	dbw Bank(MedititeBaseStats), MedititeBaseStats
+	dbw Bank(MedichamBaseStats), MedichamBaseStats
+
